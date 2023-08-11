@@ -1,0 +1,4 @@
+git-github notları
+
+- git init ile klasörümüzde git i başlatırız.
+- git add . komutu ile dosyalarda yaptığımız değişiklikleri working space ten staging area ya taşırız.
