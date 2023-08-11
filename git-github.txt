@@ -4,3 +4,4 @@ git-github notları
 - git add . komutu ile dosyalarda yaptığımız değişiklikleri working space ten staging area ya taşırız.
 kk
 -git diff ile git oull
+git çok zor kafam karıştı
